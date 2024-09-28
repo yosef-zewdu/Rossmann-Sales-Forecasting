@@ -60,7 +60,7 @@ Rossmann-Sales-Forecasting/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Rossmann-Sales-Forecasting.git
+   git clone https://github.com/yosef-zewdu/Rossmann-Sales-Forecasting.git
    cd rossmann-sales-forecasting
 
 
